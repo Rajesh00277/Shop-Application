@@ -1,0 +1,6 @@
+Device: (0:0) Unable to resolve module 'module:// react.js'
+  Evaluating module:// react.js
+  Evaluating module://screens/ProductListScreen.js.js
+  Evaluating module://navigation/ShopNavigation.js.js
+  Evaluating module://App.js.js
+  Loading module://App.js
